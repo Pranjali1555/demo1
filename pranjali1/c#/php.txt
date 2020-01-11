@@ -1,0 +1,55 @@
+QuestionsDownload PDF
+1 PHP stands for
+A Hypertext preprocessorB Hypertext proessorC HTML preprocessorD HTML processor
+ View Answer   Comment
+
+Answer: Option [A]
+2 PHP scripts are used in
+A Server-side scriptingB Command-line scriptingC Client-side GUI applicationsD All of these above
+ View Answer   Comment
+
+Answer: Option [D]
+3 Which is/are of the following is/are true about PHP-GTK ?
+A PHP-GTK provides an object-oriented interface to GTK+ classes and functionsB PHP-GTK is a library for PHP programming language which implements language bindings.C Only AD Both [A] and [B]
+ View Answer   Comment
+
+Answer: Option [D]
+4 PHP does not have an built in support for which one of the following ?
+A JPEGB GIFC MPEGD PDF
+ View Answer   Comment
+
+Answer: Option [C]
+5 In PHP language PEAR stands for
+A PHP Enhancement and Application reduceB PHP Event and Application RepositoryC PHP Extension and Application RepositoryD None of these above
+ View Answer   Comment
+
+Answer: Option [C]
+
+QuestionsDownload PDF
+6 PHP configuration settings are maintained in
+A pws-php5cgi.regB php.iniC httpd.confD httpd-info.conf
+ View Answer   Comment
+
+Answer: Option [B]
+7 During PHP installation which function creates a HTML page to display records how PHP was installed ?
+A phpconf()B phpinfo()C phprec()D phpdisplay()
+ View Answer   Comment
+
+Answer: Option [B]
+8 Select the incorrect statement about PHP programming language
+A Classes are case-insensitiveB Functions rae case-insensitiveC Variables are case-insensitiveD Constants are case-sensitive
+ View Answer   Comment
+
+Answer: Option [C]
+Variables are case-sensitive. i.e. $_gkseries and $_GkSeries are not same
+
+9 In PHP programming literal is a
+A ClassB FunctionC Data valueD None of these above
+ View Answer   Comment
+
+Answer: Option [C]
+10 Which class name is reserveed in PHP ?
+A stdClassB nameClassC newClassD None of these above
+ View Answer   Comment
+
+Answer: Option [A]

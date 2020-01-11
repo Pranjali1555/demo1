@@ -1,0 +1,111 @@
+1. 	
+Data scrubbing is which of the following?
+A.	A process to reject data from the data warehouse and to create the necessary indexes
+B.	A process to load the data in the data warehouse and to create the necessary indexes
+C.	A process to upgrade the quality of data after it is moved into a data warehouse
+D.	A process to upgrade the quality of data before it is moved into a data warehouse
+Answer: Option D
+
+Explanation:
+
+No answer description available for this question. Let us discuss.
+View Answer Discuss in Forum Workspace Report
+2. 	
+The @active data warehouse architecture includes which of the following?
+A.	At least one data mart
+B.	Data that can extracted from numerous internal and external sources
+C.	Near real-time updates
+D.	All of the above.
+Answer: Option D
+
+Explanation:
+
+No answer description available for this question. Let us discuss.
+View Answer Discuss in Forum Workspace Report
+3. 	
+A goal of data mining includes which of the following?
+A.	To explain some observed event or condition
+B.	To confirm that data exists
+C.	To analyze data for expected relationships
+D.	To create a new data warehouse
+Answer: Option A
+
+Explanation:
+
+No answer description available for this question. Let us discuss.
+View Answer Discuss in Forum Workspace Report
+4. 	
+An operational system is which of the following?
+A.	A system that is used to run the business in real time and is based on historical data.
+B.	A system that is used to run the business in real time and is based on current data.
+C.	A system that is used to support decision making and is based on current data.
+D.	A system that is used to support decision making and is based on historical data.
+Answer: Option B
+
+Explanation:
+
+No answer description available for this question. Let us discuss.
+View Answer Discuss in Forum Workspace Report
+5. 	
+A data warehouse is which of the following?
+A.	Can be updated by end users.
+B.	Contains numerous naming conventions and formats.
+C.	Organized around important subject areas.
+D.	Contains only current data.
+Answer: Option C
+
+6. 	
+A snowflake schema is which of the following types of tables?
+A.	Fact
+B.	Dimension
+C.	Helper
+D.	All of the above
+Answer: Option D
+
+Explanation:
+
+No answer description available for this question. Let us discuss.
+View Answer Discuss in Forum Workspace Report
+7. 	
+The generic two-level data warehouse architecture includes which of the following?
+A.	At least one data mart
+B.	Data that can extracted from numerous internal and external sources
+C.	Near real-time updates
+D.	All of the above.
+Answer: Option B
+
+Explanation:
+
+No answer description available for this question. Let us discuss.
+View Answer Discuss in Forum Workspace Report
+8. 	
+Fact tables are which of the following?
+A.	Completely denoralized
+B.	Partially denoralized
+C.	Completely normalized
+D.	Partially normalized
+Answer: Option C
+
+Explanation:
+
+No answer description available for this question. Let us discuss.
+View Answer Discuss in Forum Workspace Report
+9. 	
+Data transformation includes which of the following?
+A.	A process to change data from a detailed level to a summary level
+B.	A process to change data from a summary level to a detailed level
+C.	Joining data from one source into various sources of data
+D.	Separating data from one source into various sources of data
+Answer: Option A
+
+Explanation:
+
+No answer description available for this question. Let us discuss.
+View Answer Discuss in Forum Workspace Report
+10. 	
+Reconciled data is which of the following?
+A.	Data stored in the various operational systems throughout the organization.
+B.	Current data intended to be the single source for all decision support systems.
+C.	Data stored in one operational system in the organization.
+D.	Data that has been selected and formatted for end-user support applications.
+Answer: Option B

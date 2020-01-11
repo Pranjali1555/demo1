@@ -1,0 +1,121 @@
+Q.	HTML is what type of language ? 
+A. Scripting Language B. Markup Language
+C. Programming Language D. Network Protocol
+Answer : Option B
+
+Show Answer
+Q.	HTML uses 
+A. User defined tags B. Pre-specified tags
+C. Fixed tags defined by the language D. Tags only for linking
+Answer : Option C
+
+Show Answer
+Q.	The year in which HTML was first proposed _______. 
+A. 1990 B. 1980
+C. 2000 D. 1995
+Answer : Option A
+
+Show Answer
+Q.	Fundamental HTML Block is known as ___________. 
+A. HTML Body B. HTML Tag
+C. HTML Attribute D. HTML Element
+Answer : Option B
+
+Show Answer
+Q.	Apart from <b> tag, what other tag makes text bold ? 
+A. <fat> B. <strong>
+C. <black> D. <emp>
+Answer : Option B
+
+Q.	What is the full form of HTML? 
+A. HyperText Markup Language B. Hyper Teach Markup Language
+C. Hyper Tech Markup Language D. None of these
+Answer : Option A
+
+Show Answer
+Q.	Who is Known as the father of World Wide Web (WWW)? 
+A. Robert Cailliau B. Tim Thompson
+C. Charles Darwin D. Tim Berners-Lee
+Answer : Option D
+
+Show Answer
+Q.	What should be the first tag in any HTML document? 
+A. <head> B. <title>
+C. <html> D. <document>
+Answer : Option C
+
+Show Answer
+Q.	How can you make a bulleted list with numbers? 
+A. <dl> B. <ol>
+C. <list> D. <ul>
+Answer : Option B
+
+Show Answer
+Q.	What tag is used to display a picture in a HTML page? 
+A. picture B. image
+C. img D. src
+Answer : Option C
+
+Q.	HTML web pages can be read and rendered by _________. 
+A. Compiler B. Server
+C. Web Browser D. Interpreter
+Answer : Option C
+
+Show Answer
+Q.	Which of the following is not a browser ? 
+A. Microsofts Bing B. Netscape Navigator
+C. Mozilla Firefox D. Opera
+Answer : Option A
+
+Show Answer
+Q.	Which HTML tag produces the biggest heading? 
+A. <h7> B. <h9>
+C. <h4> D. <h1>
+Answer : Option D
+
+Show Answer
+Q.	HTML tags are surrounded by which type of brackets. 
+A. Curly B. Round
+C. Squart D. Angle
+Answer : Option D
+
+Show Answer
+Q.	Tags and test that are not directly displayed on the page are written in _____ section. 
+A. <head> B. <title>
+C. <body> D. <html>
+Answer : Option A
+
+Q.	HTML web pages can be read and rendered by _________. 
+A. Compiler B. Server
+C. Web Browser D. Interpreter
+Answer : Option C
+
+Show Answer
+Q.	Which of the following is not a browser ? 
+A. Microsofts Bing B. Netscape Navigator
+C. Mozilla Firefox D. Opera
+Answer : Option A
+
+Show Answer
+Q.	Which HTML tag produces the biggest heading? 
+A. <h7> B. <h9>
+C. <h4> D. <h1>
+Answer : Option D
+
+Show Answer
+Q.	HTML tags are surrounded by which type of brackets. 
+A. Curly B. Round
+C. Squart D. Angle
+Answer : Option D
+
+Show Answer
+Q.	Tags and test that are not directly displayed on the page are written in _____ section. 
+A. <head> B. <title>
+C. <body> D. <html>
+Answer : Option A
+
+Q.	HTML web pages can be read and rendered by _________. 
+A. Compiler B. Server
+C. Web Browser D. Interpreter
+Answer : Option C
+

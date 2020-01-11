@@ -1,0 +1,132 @@
+1.
+Java is a ........... language.
+A. weakly typed
+B. strogly typed
+C. moderate typed
+D. None of these
+Answer & Solution Discuss in Board Share
+Answer & Solution
+
+Answer: Option B
+To view a Solution please login
+Login with Facebook
+Login with Gmail
+2.
+How many primitive data types are there in Java?
+A. 6
+B. 7    
+
+C. 8
+D. 9
+Answer & Solution Discuss in Board Share
+Answer & Solution
+
+Answer: Option C
+To view a Solution please login
+Login with Facebook
+Login with Gmail
+3.
+In Java byte, short, int and long all of these are
+A. signed
+B. unsigned
+C. Both of the above
+D. None of these
+Answer & Solution Discuss in Board Share
+Answer & Solution
+
+Answer: Option A
+To view a Solution please login
+Login with Facebook
+Login with Gmail
+
+ 
+4.
+Size of int in Java is
+A. 16 bit
+B. 32 bit
+C. 64 bit
+D. Depends on execution environment
+Answer & Solution Discuss in Board Share
+Answer & Solution
+
+Answer: Option B
+To view a Solution please login
+Login with Facebook
+Login with Gmail
+5.
+The smallest integer type is ......... and its size is ......... bits.
+A. short, 8
+B. byte, 8
+C. short, 16
+D. short, 16
+Answer & Solution Discuss in Board Share
+Answer & Solution
+
+Answer: Option B
+
+6.
+Size of float and double in Java is
+A. 32 and 64
+B. 64 and 64
+C. 32 and 32
+D. 64 and 32
+Answer & Solution Discuss in Board Share
+Answer & Solution
+
+Answer: Option A
+
+8.
+Automatic type conversion in Java takes place when
+A. Two type are compatible and size of destination type is shorter than source type.
+B. Two type are compatible and size of destination type is equal of source type.
+C. Two type are compatible and size of destination type is larger than source type.
+D. All of the above
+Answer & Solution Discuss in Board Share
+Answer & Solution
+
+Answer: Option C
+9.
+Which of the following automatic type conversion will be possible?
+A. short to int
+B. byte to int
+C. int to long
+D. long to int
+Answer & Solution Discuss in Board Share
+Answer & Solution
+
+Answer: Option C
+To view a Solu
+
+13.
+What would be the output of the following fraction of code ?
+int Integer = 34 ;
+char String = 'S' ;
+System.out.print( Integer ) ;
+System.out.print( String ) ;
+A. Does not compile as Integer and String are API class names.
+B. Throws exception.
+C. 34
+D. S
+E. 34 S
+Answer & Solution Discuss in Board Share
+Answer & Solution
+
+Answer: Option E
+
+15.
+What will be output of the following program code?
+public class Test{
+	public static void main(String[] a){
+		short x = 10;
+		x = x*5;
+		System.out.print(x);
+	}  
+}
+A. 50
+B. 10
+C. Compilation Error
+D. None of these
+Answer & Solution Discuss in Board Share
+Answer & Solution
+
+Answer: Option C

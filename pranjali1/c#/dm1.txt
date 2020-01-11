@@ -1,0 +1,42 @@
+1:  
+Adaptive system management is
+
+A.	
+It uses machine-learning techniques. Here program can learn from past experience and adapt themselves to new situations
+
+B.	
+Computational procedure that takes some value as input and produces some value as output.
+
+C.	
+Science of making machines performs tasks that would require intelligence when performed by humans
+
+D.	
+None of these
+
+ 	
+ Answer  Report  Discuss
+ 	
+Option: A
+
+Explanation :
+
+2:  
+Bayesian classifiers is
+
+A.	
+A class of learning algorithm that tries to find an optimum classification of a set of examples using the probabilistic theory.
+
+B.	
+Any mechanism employed by a learning system to constrain the search space of a hypothesis
+
+C.	
+An approach to the design of learning algorithms that is inspired by the fact that when people encounter new situations, they often explain them by reference to familiar experiences, adapting the explanations to fit the new situation.
+
+D.	
+None of these
+
+ 	
+ Answer  Report  Discuss
+ 	
+Option: A
+

@@ -1,0 +1,144 @@
+Q 1 - Which of the following is a reserved keyword in C#?
+
+A - abstract
+
+B - as
+
+C - foreach
+
+D - All of the above.
+
+Answer : D
+Explanation
+All of the above options are reserved keywords.
+
+ Hide Answer
+Q 2 - Which of the following defines unboxing correctly?
+
+A - When a value type is converted to object type, it is called unboxing.
+
+B - When an object type is converted to a value type, it is called unboxing.
+
+C - Both of the above.
+
+D - None of the above.
+
+Answer : B
+Explanation
+When an object type is converted to a value type, it is called unboxing.
+
+ Hide Answer
+Q 3 - Which of the following converts a type to a string in C#?
+
+A - ToInt64
+
+B - ToSbyte
+
+C - ToSingle
+
+D - ToString
+
+Answer : D
+Explanation
+ToString() method converts a type to a string.
+
+ Hide Answer
+Q 4 - Which of the following operator represents a conditional operation in C#?
+
+A - ?:
+
+B - is
+
+C - as
+
+D - *
+
+Answer : A
+Explanation
+?: operator represents a conditional operation.
+
+ Hide Answer
+Q 5 - Which of the following statements is correct about encapsulation?
+
+A - Encapsulation is defined as the process of enclosing one or more items within a physical or logical package.
+
+B - Encapsulation, in object oriented programming methodology, prevents access to implementation details.
+
+C - Abstraction allows making relevant information visible and encapsulation enables a programmer to implement the desired level of abstraction.
+
+D - All of the above.
+
+Answer : D
+Explanation
+All of the above statements are correct.
+
+ Hide Answer
+Q 6 - Which of the following property of Array class in C# checks whether the Array is readonly?
+
+A - IsFixedSize
+
+B - IsReadOnly
+
+C - Length
+
+D - None of the above.
+
+Answer : B
+Explanation
+IsReadOnly gets a value indicating whether the Array is readonly.
+
+ Hide Answer
+Q 7 - Which of the following is the default access specifier of a class member function?
+
+A - Private
+
+B - Public
+
+C - Protected
+
+D - Internal
+
+Answer : A
+Explanation
+Default access for the class member function is Private.
+
+ Hide Answer
+Q 8 - Which of the following is the correct about static member functions of a class?
+
+A - You can also declare a member function as static.
+
+B - Such functions can access only static variables.
+
+C - The static functions exist even before the object is created.
+
+D - All of the above.
+
+Answer : D
+Explanation
+All of the above options are correct.
+
+ Hide Answer
+Q 9 - Which of the following preprocessor directive lets you modify the compiler's line number and (optionally) the file name output for errors and warnings in C#?
+
+A - elif
+
+B - endif
+
+C - line
+
+D - region
+
+ Show Answer
+Q 10 - Which of the following preprocessor directive lets you specify a block of code that you can expand or collapse when using the outlining feature of the Visual Studio Code Editor in C#?
+
+A - warning
+
+B - region
+
+C - line
+
+D - error
+
+Answer : B
+Explanation
+#region - It lets you specify a block of code that you can expand or collapse 

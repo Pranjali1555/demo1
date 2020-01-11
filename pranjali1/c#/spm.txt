@@ -1,0 +1,87 @@
+This section on Software Engineering MCQs focuses on “Project Management”.
+1. Which of the following is not project management goal?
+a) Keeping overall costs within budget.
+b) Delivering the software to the customer at the agreed time.
+c) Maintaining a happy and well-functioning development team.
+d) Avoiding costumer complaints.
+View Answer
+
+Answer:d
+Explanation:Projects need to be managed because professional software engineering is always subject to organizational budget and schedule constraints.
+2. Project managers have to assess the risks that may affect a project.
+a) True
+b) False
+View Answer
+
+Answer:b
+Explanation:Risk management involves anticipating risks that might affect the project schedule or the quality of the software being developed, and then taking action to avoid these risks.
+3. Which of the following is not considered as a risk in project management?
+a) Specification delays
+b) Product competition
+c) Testing
+d) Staff turnover
+View Answer
+
+Answer:c
+Explanation:Testing is a part of project, thus it can’t be categorized as risk.
+4. The process each manager follows during the life of a project is known as
+a) Project Management
+b) Manager life cycle
+c) Project Management Life Cycle
+d) All of the mentioned
+View Answer
+
+Answer:c
+Explanation:A proven methodical life cycle is necessary to repeatedly implement and manage projects successfully.
+5. A 66.6% risk is considered as
+a) very low
+b) low
+c) moderate
+d) high
+e) very high
+View Answer
+
+Answer:d
+Explanation:The probability of the risk might be assessed as very low (<10%), low (10–25%), moderate (25–50%), high (50–75%), or very high (>75%).
+6. Which of the following is/are main parameters that you should use when computing the costs of a software development project?
+a) travel and training costs
+b) hardware and software costs
+c) effort costs (the costs of paying software engineers and managers)
+d) All of the mentioned
+View Answer
+
+Answer:d
+Explanation:Estimation involves working out how much effort is required to complete each activity and, from this, calculating the total cost of activities.
+7. Quality planning is the process of developing a quality plan for
+a) team
+b) project
+c) customers
+d) project manager
+View Answer
+
+Answer:b
+Explanation: The quality plan should set out the desired software qualities and describe how these are to be assessed.
+8. Which of the following is incorrect activity for the configuration management of a software system?
+a) Internship management
+b) Change management
+c) Version management
+d) System management
+View Answer
+
+Answer:a
+Explanation:Configuration management policies and processes define how to record and process proposed system changes, how to decide what system components to change, how to manage different versions of the system and its components, and how to distribute changes to customers.
+9. Identify the sub-process of process improvement
+a) Process introduction
+b) Process analysis
+c) De-processification
+d) Process distribution
+View Answer
+
+Answer:b
+Explanation:The current process is assessed, and process weaknesses and bottlenecks are identified.
+10. An independent relationship must exist between the attribute that can be measured and the external quality attribute.
+a) True
+b) False
+View Answer
+
+Answer:b

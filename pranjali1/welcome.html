@@ -1,0 +1,54 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Untitled Document</title>
+<script type="text/javascript">
+function fun()
+{
+if(isset($_POST['submit']))
+{
+  header("Location:subject.html");
+  exit;
+  }
+  }
+  </script>
+  <style type="text/css">
+  h1{
+      font-size:50px;
+	  color:#33CC99;
+	  }
+	  h3{
+	       font-size:35px;
+		   color:#330099;
+		   }
+		   .button{
+background-color:#CC0066;
+border:none;
+color:#CCFF00;
+padding: 10px 25px;
+text-align:center;
+text-decoration:none;
+display:inline-block;
+font-size:16px;
+border-radius:12px;
+}
+  </style>
+</head>
+
+<body background="file/15.jpg"><center>
+<h1>Welcome Students</h1>
+<br />
+<img src="file/pranjali/1.jpg" height="225" width="300" align="middle" />
+
+<h3>Generating Question Set......Continue?</h3><br /><br />
+<form action="#" method="post">
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<input type="button" value="continue" onclick="parent.location='subject.html'" class="button"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<input type="reset" name="exit" onclick="parent.location='index.html'" value="logout" class="button"/>
+</form>
+
+</body>
+</html>
+

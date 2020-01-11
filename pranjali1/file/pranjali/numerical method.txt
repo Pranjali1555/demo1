@@ -1,0 +1,108 @@
+In which of the following method, we approximate the curve of solution by the tangent in each interval.
+
+Picard’s method
+Euler’s method
+Newton’s method
+Runge Kutta method
+(Ans:b)
+
+ 
+
+Jacobi’s method is also known as
+
+Displacement method
+Simultaneous displacement method
+Simultaneous method
+Diagonal method
+(Ans:b)
+
+ 
+
+The number of significant digits in the number 204.020050 is
+
+5
+6
+8
+9
+(Ans:d)
+
+ 
+
+In general the ratio of truncation error to that of round off error is
+
+2:1
+1:1
+1:2
+1:3
+(Ans:a)
+
+ 
+
+The convergence of which of the following method is sensitive to starting value?
+
+False position
+Gauss seidal method
+Newton-Raphson method
+All of these
+(Ans:c)
+
+ 
+
+To perform a Chi-square test
+
+Data conform to a normal distribution
+Data be measured on a nominal scale
+Each cell has equal number of frequencies
+All of these
+(Ans:d)
+
+ 
+
+In the Gauss elimination method for solving a system of linear algebraic equations, triangularzation leads to
+
+Diagonal matrix
+Lower triangular matrix
+Upper triangular matrix
+Singular matrix
+(Ans:c)
+
+ 
+
+Match the following:
+
+A. Newton-Raphson      1. Integration
+
+B. Runge-kutta            2. Root finding
+
+C. Gauss-seidel           3. Ordinary Differential Equations
+
+D. Simpson’s Rule       4. Solution of system of Linear Equations
+
+The correct sequence is
+
+A2-B3-C4-D1
+A3-B2-C1-D4
+A1-B4-C2-D3
+A4-B1-C2-D3
+(Ans:a)
+
+ 
+
+Order of convergence of Regula-Falsi method is
+
+1.321
+1.618
+2.231
+2.312
+(Ans:b)
+
+ 
+
+The expected value of the random variable
+
+Will also be the most likely value of the random variable
+Is another term for the mean value
+Is also called the variance
+Cannot be greater than 1
+(Ans:b)
+

@@ -1,0 +1,57 @@
+1.	Which of the following items is not used in Local Area Networks(LANs)?
+ 	
+A. Computer Modem B. Cable C. Modem D. Interface card
+Answer c
+
+2.	Which of the following represents the fastest data transmission speed?
+ 	
+A. GbpsB. KbpsC. BpsD. Bandwidth
+Answer a
+
+3.	A device that connects to a network with our the use of cables is said to be
+ 	
+A. Open source B. Cabled C. Distributed D. Wireless
+Answer d
+
+4.	WI–FI uses
+ 	
+A. Phase lineB. Radio waves C. Optic fiberD. Sound waves
+Answer b
+
+5.	WI–FI uses
+ 	
+A. Phase lineB. Radio waves C. Optic fiberD. Sound waves
+Answer b
+
+6.	How many bits are there in the Ethernet address?
+ 	
+A. 16 bits B. 32 bitsC. 48 bitsD. 64 bits
+Answer 
+
+7.	Geometric arrangement of devices on the network is called
+ 	
+A. ProtocolsB. Topology C. Trailer D. LAN
+Answer b
+
+
+8.	Which type of network would use phone lines?
+ 	
+A. WirelessB. WANC. LAND. WWAN
+Answer b
+
+
+9.	Which of the following is not a network device?
+ 	
+A. RouterB. ModemC. BridgeD. Switch
+Answer b
+
+
+9.	Which of the following is not a network device?
+ 	
+A. RouterB. ModemC. BridgeD. Switch
+Answer 
+10.	Servers are other computer which provide resources to other computer connected by
+ 	
+A. Super computerB. MainframeC. NetworkD. Client
+Answer c
+

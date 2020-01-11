@@ -1,0 +1,75 @@
+1. UNIVAC is
+A) Universal Automatic Computer
+B) Universal Array Computer
+C) Unique Automatic Computer
+D) Unvalued Automatic Computer
+
+2. The basic operations performed by a computer are
+A) Arithmetic operation
+B) Logical operation
+C) Storage and relative
+D) All the above
+
+3. The two major types of computer chips are
+A) External memory chip
+B) Primary memory chip
+C) Microprocessor chip
+D) Both b and c
+
+4. Microprocessors as switching devices are for which generation computers
+A) First Generation
+B) Second Generation
+C) Third Generation
+D) Fourth Generation
+
+5. What is the main difference between a mainframe and a super computer?
+A) Super computer is much larger than mainframe computers
+B) Super computers are much smaller than mainframe computers
+C) Supercomputers are focused to execute few programs as fast as possible while mainframe uses its power to execute as many programs concurrently
+D) Supercomputers are focused to execute as many programs as possible while mainframe uses its power to execute few programs as fast as possible.
+
+6. ASCII and EBCDIC are the popular character coding systems. What does EBCDIC stand for?
+A) Extended Binary Coded Decimal Interchange Code
+B) Extended Bit Code Decimal Interchange Code
+C) Extended Bit Case Decimal Interchange Code
+D) Extended Binary Case Decimal Interchange Code
+
+7. The brain of any computer system is
+A) ALU
+B) Memory
+C) CPU
+D) Control unit
+
+8. Storage capacity of magnetic disk depends on
+A) tracks per inch of surface
+B) bits per inch of tracks
+C) disk pack in disk surface
+D) All of above
+
+9. The two kinds of main memory are:
+A) Primary and secondary
+B) Random and sequential
+C) ROM and RAM
+D) All of above
+
+10. A storage area used to store data to a compensate for the difference in speed at which the different units can handle data is
+A) Memory
+B) Buffer
+C) Accumulator
+D) Address
+
+11. Computer is free from tiresome and boardoom. We call it
+A) Accuracy
+B) Reliability
+C) Diligence
+D) Versatility
+
+12. Integrate
+
+
+
+
+
+
+1-A	2-D	3-D	4-D	5-C	6-A	7-C	8-D	9-C	10-B
+11-C

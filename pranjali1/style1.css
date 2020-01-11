@@ -1,0 +1,33 @@
+
+.td{
+	list-style: none;
+	height: 44px;
+	float:left;
+	padding:0.9% 1%;
+	width: 18%;
+}
+.td ,a {
+  	 height: 35px;
+	line-height:48px;
+	border-bottom:4px solid #FFFFFF;
+	padding:0px;
+	color:#CC3399;
+	font-size:18px;
+	font-weight:lighter;
+	text-align:center;
+	text-decoration: none;
+	display: block;
+	-webkit-transition: .2s all linear;
+	-moz-transition: .2s all linear;
+	-o-transition: .2s all linear;
+	transition: .2s all linear;
+}
+.td, a {
+	border-color:#FFFFFF;
+}
+.td, a:hover {
+	border-bottom: 35px solid #CC3399;
+	height: 5px;
+	color:#FFFFFF;
+}
+

@@ -1,0 +1,61 @@
+1
+A returns a pointer to a variableB creates a variable called newC obtains memory for a new variableD tells how much memory is available
+ View Answer   Comment
+
+Answer: Option [C]
+2 Which of the following statement is correct?
+A For positive numbers, result of operators >> and >>> are sameB Java provides two operators to do left shift <<< and <<C >> is the zero fill right shift operatorD >>> is the signed right shift operator
+ View Answer   Comment
+
+Answer: Option [A]
+3 Java language has support for which of the following types of comment ?
+A block, line and javadocB javadoc, literal and stringC javadoc, char and stringD single, multiple and quote
+ View Answer   Comment
+
+Answer: Option [A]
+Java supports three types of comments.
+
+(i)Single line i.e. line e.g. //comment
+
+(ii)Multi line i.e. block e.g. /*comment*/
+
+(iii)Javadoc comments e.g. /**comment*/
+
+4 Command to execute a compiled java program is :
+A javacB javaC runD execute
+ View Answer   Comment
+
+Answer: Option [B]
+5 The java compiler
+A creates executableB translates java source code to byte codeC creates classesD produces java Interpreter
+ View Answer   Comment
+
+Answer: Option [B]
+1 2 »
+
+
+
+ The minimum value of char type variable is
+A ‘\u0020’B ‘\u00ff’C ‘\u0010’D ‘\u0000’
+ View Answer   Comment
+
+Answer: Option [D]
+'\u0000' i.e. 0 is the minimum value of the char type varibale in java
+
+8 Java uses ___ to represent characters
+A ASCII codeB UnicodeC Byte codeD None of the above
+ View Answer   Comment
+
+Answer: Option [B]
+9 Which one is not supported by OOP?
+A AbstractionB PolymorphismC EncapsulationD Global variables
+ View Answer   Comment
+
+Answer: Option [D]
+Four major principles of object oriented programming are Abstraction, Encapsulation, Inheritance and Polymorphism
+
+10 Java programs are
+A Platform-dependentB Interpreter-dependentC Platform-independentD Interpreter-independent
+ View Answer   Comment
+
+Answer: Option [C]

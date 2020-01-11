@@ -1,0 +1,113 @@
+1. Round robin scheduling is essentially the preemptive version of ________ ?
+[A] FIFO
+[B] Shortest job first
+[C] Shortest remaining
+[D] Longest time first
+Answer: A. FIFO
+
+Explanation:
+
+Round-robin (RR) is one of the simplest scheduling algorithms for processes in an operating system.The name of the algorithm comes from the round-robin principle known from other fields, where each person takes an equal share of something in turn.
+ Answer   0 Discussions  4  0
+2. A page fault occurs ?
+[A] when the page is not in the memory
+[B] when the page is in the memory
+[C] when the process enters the blocked state
+[D] when the process is in the ready state
+Answer: A. when the page is not in the memory
+
+Explanation:
+
+A page fault (sometimes #pf or pf) is a trap to the software raised by the hardware when a program accesses a page that is mapped in the virtual address space, but not loaded in physical memory.
+ Answer   0 Discussions  2  0
+3. Which of the following will determine your choice of systems software for your computer? 
+[A] Is the applications software you want to use compatible with it ?
+[B] Is it expensive ?
+[C] Is it compatible with your hardware ?
+[D] Both 1 and 3
+Answer: D. Both 1 and 3
+
+Explanation:
+
+The choice of the software should be compatible with the hardware and should not be expensive enough.
+ Answer   0 Discussions  1  0
+4. What is a shell ? 
+[A] is a hardware component
+[B] It is a command interpreter
+[C] It is a part in compiler
+[D] It is a tool in CPU scheduling
+Answer: B. It is a command interpreter
+
+Explanation:
+
+A Shell is the command line interpreter that provides the traditional user interface for the UNIX operating system. Users direct the operation of the computer by entering commands as text for a command line interpreter to execute or by creating text scripts of one or more such commands.
+ Answer   0 Discussions  1  0
+5. Routine is not loaded until it is called. All routines are kept on disk in a relocatable load format. The main program is loaded into memory & is executed. This type of loading is called... ? 
+[A] Static loading
+[B] Dynamic loading
+[C] Dynamic linking
+[D] Overlays
+Answer: C. Dynamic linking
+
+Explanation:
+
+Dynamic linking provides the facility to load or unload routines at runtime.
+ Answer   0 Discussions  1  0
+6. In the blocked state ? 
+[A] the processes waiting for I/O are found
+[B] the process which is running is found
+[C] the processes waiting for the processor are found
+[D] none of the above
+Answer: A. the processes waiting for I/O are found
+
+Explanation:
+
+All the processes that are waiting for the completion of some event such as I/O operation or a signal are in Blocked state.
+ Answer   0 Discussions  2  0
+7. What is the memory from 1K - 640K called ?
+
+
+
+[A] Extended Memory
+[B] Normal Memory
+[C] Low Memory
+[D] Conventional Memory
+Answer: D. Conventional Memory
+
+Explanation:
+
+conventional memory, also called base memory
+ Answer   0 Discussions  1  0
+8. Virtual memory is ..... ?
+[A] An extremely large main memory
+[B] An extremely large secondary memory
+[C] An illusion of extremely large main memory
+[D] A type of memory used in super computers
+Answer: C. An illusion of extremely large main memory
+
+Explanation:
+
+Virtual memory allows a program to be designed as though there is only one kind of memory, "virtual" memory, which behaves like directly addressable read/write memory (RAM).
+ Answer   0 Discussions  0  0
+9. Which is not the state of the process ?
+[A] Blocked
+[B] Running
+[C] Ready
+[D] Privileged
+Answer: D. Privileged
+
+Explanation:
+
+The five states of process are:Create , waiting, running, blocked, terminated
+ Answer   0 Discussions  0  0
+10. The number of processes completed per unit time is known as.... ?
+[A] Output
+[B] Throughput
+[C] Efficiency
+[D] Capacity
+Answer: B. Throughput
+
+Explanation:
+
+The amount of data transferred from one place to another or processed in a specified amount of time is called throughput.
+ Answer   0 Discussions  1

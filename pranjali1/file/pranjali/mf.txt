@@ -1,0 +1,34 @@
+8. Difference between calloc() and malloc()
+calloc() takes a single argument while malloc() needs two arguments
+malloc() takes a single argument while calloc() needs two arguments
+malloc() initializes the allocated memory to ZERO
+calloc() initializes the allocated memory to NULL
+ Answer And Explanation
+
+Answer: Option B
+Explanation:
+ View Answer
+ 
+ Comment on this question
+9. Exit() is same as return
+TRUE
+FALSE
+ Answer And Explanation
+
+Answer: Option B
+Explanation:
+ View Answer
+ 
+ Comment on this question
+10. calloc() belongs to which library
+stdlib.h
+malloc.h
+calloc.h
+None of above
+ Answer And Explanation
+
+Answer: Option A
+Explanation:
+ View Answer
+ 
+ Comment o

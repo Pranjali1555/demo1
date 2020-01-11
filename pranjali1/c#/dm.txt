@@ -1,0 +1,198 @@
+1. ...................... is an essential process where intelligent methods are applied to extract data patterns.
+
+
+MCQ on Data Mining with AnswersA) Data warehousing
+
+B) Data mining
+
+C) Text mining
+
+D) Data selection
+
+
+2. Data mining can also applied to other forms such as ................
+
+i) Data streams
+
+ii) Sequence data
+
+iii) Networked data
+
+iv) Text data
+
+v) Spatial data
+
+A) i, ii, iii and v only
+
+B) ii, iii, iv and v only
+
+C) i, iii, iv and v only
+
+D) All i, ii, iii, iv and v
+
+
+3. Which of the following is not a data mining functionality?
+
+A) Characterization and Discrimination
+
+B) Classification and regression
+
+C) Selection and interpretation
+
+D) Clustering and Analysis
+
+
+4. ............................. is a summarization of the general characteristics or features of a target class of data.
+
+A) Data Characterization 
+
+B) Data Classification 
+
+C) Data discrimination
+
+D) Data selection
+
+
+
+
+5. ............................. is a comparison of the general features of the target class data objects against the general features of objects from one or multiple contrasting classes. 
+
+A) Data Characterization 
+
+B) Data Classification 
+
+C) Data discrimination
+
+D) Data selection 
+
+
+6. Strategic value of data mining is ......................
+
+A) cost-sensitive
+
+B) work-sensitive
+
+C) time-sensitive
+
+D) technical-sensitive
+
+
+7. ............................. is the process of finding a model that describes and distinguishes data classes or concepts. 
+
+A) Data Characterization 
+
+B) Data Classification 
+
+C) Data discrimination
+
+D) Data selection
+
+
+8. The various aspects of data mining methodologies is/are ...................
+
+i) Mining various and new kinds of knowledge
+
+ii) Mining knowledge in multidimensional space
+
+iii) Pattern evaluation and pattern or constraint-guided mining.
+
+iv) Handling uncertainty, noise, or incompleteness of data
+
+A) i, ii and iv only
+
+B) ii, iii and iv only
+
+C) i, ii and iii only
+
+D) All i, ii, iii and iv
+
+
+9. The full form of KDD is ..................
+
+A) Knowledge Database
+
+B) Knowledge Discovery Database
+
+C) Knowledge Data House
+
+D) Knowledge Data Definition
+
+
+10. The out put of KDD is .............
+
+A) Data
+
+B) Information
+
+C) Query
+
+D) Useful information
+
+
+Answers:
+
+1. ...................... is an essential process where intelligent methods are applied to extract data patterns.
+
+B) Data mining
+
+2. Data mining can also applied to other forms such as ................
+
+i) Data streams
+
+ii) Sequence data
+
+iii) Networked data
+
+iv) Text data
+
+v) Spatial data
+
+D) All i, ii, iii, iv and v
+
+3. Which of the following is not a data mining functionality?
+
+C) Selection and interpretation
+
+
+4. ............................. is a summarization of the general characteristics or features of a target class of data.
+
+A) Data Characterization 
+
+
+5. ............................. is a comparison of the general features of the target class data objects against the general features of objects from one or multiple contrasting classes.
+
+C) Data discrimination
+
+
+6. Strategic value of data mining is ......................
+
+C) time-sensitive 
+
+
+7. ............................. is the process of finding a model that describes and distinguishes data classes or concepts. 
+
+B) Data Classification 
+
+
+8. The various aspects of data mining methodologies is/are ................... 
+
+i) Mining various and new kinds of knowledge 
+
+ii) Mining knowledge in multidimensional space 
+
+iii) Pattern evaluation and pattern or constraint-guided mining. 
+
+iv) Handling uncertainty, noise, or incompleteness of data 
+
+D) All i, ii, iii and iv 
+
+
+9. The full form of KDD is .................. 
+
+B) Knowledge Discovery Database
+
+
+10. The out put of KDD is .............
+
+D) Useful information
+

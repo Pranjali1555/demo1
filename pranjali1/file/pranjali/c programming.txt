@@ -1,0 +1,132 @@
+1. We can insert pre written code in a C program by using
+#read
+#get
+#include
+#put
+ Answer And Explanation
+
+Answer: Option C
+Explanation:
+ View Answer
+ 
+ Comment on this question
+2. The first expression in a for loop is
+Step value of loop
+Value of the counter variable
+Any of above
+None of above
+ Answer And Explanation
+
+Answer: Option B
+Explanation:
+ View Answer
+ 
+ Comment on this question
+3. Break statement is used for
+Quit a program
+Quit the current iteration
+Both of above
+None of above
+ Answer And Explanation
+
+Answer: Option B
+Explanation:
+ View Answer
+ 
+ Comment on this question
+4. Continue statement used for
+To continue to the next line of code
+To stop the current iteration and begin the next iteration from the beginning
+To handle run time error
+None of above
+ Answer And Explanation
+
+Answer: Option B
+Explanation:
+ View Answer
+ 
+ Comment on this question
+5. What will be output of
+#include
+void main()
+{
+char test =`S`;
+printf("\n%c",test);
+}
+S
+Error
+Garbage value
+None of above
+ Answer And Explanation
+
+Answer: Option A
+Explanation:
+ View Answer
+ 
+ Comment on this question
+6. Due to variable scope in c
+Variables created in a function cannot be used another function
+Variables created in a function can be used in another function
+Variables created in a function can only be used in the main function
+None of above
+ Answer And Explanation
+
+Answer: Option A
+Explanation:
+ View Answer
+ 
+ Comment on this question
+7. What will be the output of following program
+#include
+main()
+{
+int x,y = 10;
+x = y * NULL;
+printf(\"%d\",x);
+}
+error
+0
+10
+Garbage value
+ Answer And Explanation
+
+Answer: Option B
+Explanation:
+
+
+
+
+8. Difference between calloc() and malloc()
+calloc() takes a single argument while malloc() needs two arguments
+malloc() takes a single argument while calloc() needs two arguments
+malloc() initializes the allocated memory to ZERO
+calloc() initializes the allocated memory to NULL
+ Answer And Explanation
+
+Answer: Option B
+Explanation:
+ View Answer
+ 
+ Comment on this question
+9. Exit() is same as return
+TRUE
+FALSE
+ Answer And Explanation
+
+Answer: Option B
+Explanation:
+ View Answer
+ 
+ Comment on this question
+10. calloc() belongs to which library
+stdlib.h
+malloc.h
+calloc.h
+None of above
+ Answer And Explanation
+
+Answer: Option A
+Explanation:
+ View Answer
+ 
+ Comment o

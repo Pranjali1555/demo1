@@ -1,0 +1,200 @@
+1.
+Determine output:
+void main()
+{
+      int const *p=5;
+      printf("%d", ++(*p));
+}
+A. 6
+B. 5
+C. Garbage Value
+D. Compiler Error
+Answer & Solution Discuss in Board Share
+Answer & Solution
+
+Answer: Option D
+
+
+
+2.
+Determine Output:
+void main()
+{
+      char s[]="man";
+      int i;
+      for(i=0; s[i]; i++)
+            printf("%c%c%c%c ", s[i], *(s+i), *(i+s), i[s]);
+}
+A. mmm nnn aaa
+B. mmmm nnnn aaaa
+C. Compiler Error
+D. None of These
+Answer & Solution Discuss in Board Share
+Answer & Solution
+
+Answer: Option B
+To view a Solution please login
+Login with Facebook
+Login with Gmail
+3.
+Determine Output:
+void main()
+{
+      float me = 1.1;
+      double you = 1.1;
+      if(me==you)
+            printf("I hate Examveda");
+      else
+            printf("I love Examveda");
+}
+A. I hate Examveda
+B. I love Examveda
+C. Error
+D. None of These
+Answer & Solution Discuss in Board Share
+Answer & Solution
+
+Answer: Option B
+To view a Solution please login
+Login with Facebook
+Login with Gmail
+
+ 
+4.
+Determine Output:
+void main()
+{
+      static int var = 5;
+      printf("%d ", var--);
+      if(var)
+            main();
+}
+A. 5 5 5 5 5
+B. 5 4 3 2 1
+C. Infinite Loop
+D. None of These
+Answer & Solution Discuss in Board Share
+Answer & Solution
+
+Answer: Option B
+To view a Solution please login
+Login with Facebook
+Login with Gmail
+5.
+Determine Output:
+void main()
+{
+      char *p;
+      printf("%d %d", sizeof(*p), sizeof(p));
+}
+A. 1 1
+B. 1 2
+C. 2 1
+D. 2 2
+Answer & Solution Discuss in Board Share
+Answer & Solution
+
+Answer: Option B
+
+
+
+
+Determine the Final Output:
+void main()
+{
+      printf("\nab");
+      printf("\bsi");
+      printf("\rha");
+}
+A. absiha
+B. asiha
+C. haasi
+D. hai
+Answer & Solution Discuss in Board Share
+Answer & Solution
+
+Answer: Option D
+To view a Solution please login
+Login with Facebook
+Login with Gmail
+7.
+Determine Output:
+void main()
+{
+      int i=10;
+      i=!i>14;
+      printf("i=%d", i);
+}
+A. 10
+B. 14
+C. 0
+D. 1
+Answer & Solution Discuss in Board Share
+Answer & Solution
+
+Answer: Option C
+To view a Solution please login
+Login with Facebook
+Login with Gmail
+8.
+Determine Output:
+void main()
+{
+      int c = - -2;
+      printf("c=%d", c);
+}
+A. 1
+B. -2
+C. 2
+D. Error
+Answer & Solution Discuss in Board Share
+Answer & Solution
+
+Answer: Option C
+To view a Solution please login
+Login with Facebook
+Login with Gmail
+
+ 
+9.
+Determine Output:
+#define int char
+void main()
+{
+      int i = 65;
+      printf("sizeof(i)=%d", sizeof(i));
+}
+A. sizeof(i)=2
+B. sizeof(i)=1
+C. Compiler Error
+D. None of These
+Answer & Solution Discuss in Board Share
+Answer & Solution
+
+Answer: Option B
+To view a Solution please login
+Login with Facebook
+Login with Gmail
+10.
+Determine Output:
+void main()
+{
+      int i=3;
+      switch(i)
+      {
+            default: printf("zero");
+            case 1: printf("one"); break;
+            case 2: printf("two"); break;
+            case 3: printf("three"); break;
+      }
+}
+A. zero
+B. three
+C. Error
+D. None of These
+Answer & Solution Discuss in Board Share
+Answer & Solution
+
+Answer: Option B
+
+

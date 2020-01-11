@@ -1,0 +1,86 @@
+Question : mysql_connect( ) does not take following parameter
+a. database host
+b. user ID
+c. password
+d. database name
+Answer d.
+
+Question : Which of the folowing are valid float values?
+A. 4.5678
+B. 4.0
+C. 7e4
+D. All of above
+Answer : D
+Question : In php string data are
+A. delimited by single quote
+B. delimited by double quote
+C. delimited by < << identifier
+D. All of above
+Answer : D
+Question : Which of the following delimiting method is known as string Interpolation
+A. 4.5678
+B. 4.0
+C. 7e4
+D. All of above
+Answer : D
+Question : Which of following are compound data type?
+A. Array
+B. Objects
+C. Both
+D. None of above
+Answer : C
+Question : Casting operator introduced in PHP 6 is
+A. (array)
+B. (int64)
+C. (real) or (double) or (float)
+D. (object)
+Answer : B
+Question : When defining identifier in PHP you should remember that
+A. Identifier are case sensitive. So $result is different than $ result
+B. Identifiers can be any length
+C. Both of above
+D. None of above
+Answer : C
+Question : Identify the invalid identifier
+A. my-function
+B. size
+C. –some word
+D. This&that
+Answer : D
+Question : Which of folowiing variable assignment is ‘by value’ assignment in PHP
+A. $value1= $value?
+B. $value1= & $value?
+C. $value1= & $value?
+D. None of above
+Answer : A
+Question : <?php $x=array(4,2,5,1,4,5,3,4); $y=array_count_values($x); echo count($y); ?>
+A. 8
+B. 5
+C. 27
+D. 28
+Answer : B
+Question : <?php $color=array(“red”,”yellow”,”white”); $x=in_array(“black”,$color); if($x==0) echo “good bye”; if($x==1) echo “Hello”; ?>
+A. Hello
+B. Error
+C. good bye
+D. None of the above
+Answer : C
+Question : Identify the variable scope that is not supported by PHP
+A. Local variables
+B. Function parameters
+C. Hidden variables
+D. Global variables
+Answer : C
+Question : Variable scope on which a variable does not loose its value when the function exists and use that value if the function is called again is:
+A. Local
+B. function parameter
+C. static
+D. None of above
+Answer : B
+Question : The left association operator % is used in PHP for
+A. percentage
+B. bitwise or
+C. division
+D. modulus
+Answer : D
+Question : The left associative dot operator (.) is 

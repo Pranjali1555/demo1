@@ -1,0 +1,86 @@
+This section on Software Engineering MCQs focuses on “Software Reliability Models”.
+1. Which one is not a software quality model?
+a) ISO 9000
+b) McCall model
+c) Boehm model
+d) ISO 9126
+View Answer
+
+Answer:a
+Explanation:ISO 9000 is software certification.
+2. How many levels are present in CMM?
+a) three
+b) four
+c) five
+d) six
+View Answer
+
+Answer:c
+Explanation:The five levels are: initial, repeatable, defined, managed, optimizing.
+3. Which level of CMM is for process management?
+a) Initial
+b) Repeatable
+c) Defined
+d) Optimizing
+View Answer
+
+Answer:d
+Explanation:It is a characteristic of processes at this level that the focus is on continually improving process performance through both incremental and innovative technological changes/improvements.
+4. In ISO 9126, time behavior and resource utilization are a part of
+a) maintainability
+b) portability
+c) efficiency
+d) usability
+View Answer
+
+Answer:c
+Explanation:A set of attributes that bear on the relationship between the level of performance of the software and the amount of resources used, under stated conditions.
+5. Which of the following is not a Probabilistic Model?
+a) Error seeding
+b) NHPP
+c) Input domain
+d) Halstead’s software metric
+View Answer
+
+6. Software reliability is defined with respect to
+a) time
+b) bugs
+c) failures
+d) quality
+View Answer
+
+Answer:a
+Explanation:The answer is self explanatory.
+7. Failure In Time (FIT) is another way of reporting
+a) MTTR
+b) MTTF
+c) MTSF
+d) MTBF
+View Answer
+
+Answer:d
+Explanation:FIT reports the number of expected failures per one billion hours of operation for a device. This term is used particularly by the semiconductor industry but is also used by component manufacturers .
+8. MTTF stands for
+a) Minimum time to failure
+b) Mean time to failure
+c) Maximum time to failure
+d) None of the mentioned
+View Answer
+
+Answer:b
+Explanation:The answer is self explanatory.
+9. Mean Time To Repair (MTTR) is the time needed to repair a failed hardware module.
+a) True
+b) False
+View Answer
+
+Answer:a
+Explanation:In an operational system, repair generally means replacing a failed hardware part. Thus, hardware MTTR could be viewed as mean time to replace a failed hardware module.
+10. IMC Networks is a leading ________ certified manufacturer of optical networking and LAN/WAN connectivity solutions for enterprise, telecommunications and service provider applications.
+a) Telco Systems
+b) D-Link
+c) Arista Networks
+d) ISO 9001
+View Answer
+
+Answer:a

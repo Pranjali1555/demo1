@@ -1,0 +1,96 @@
+This set of Microprocessor Multiple Choice Questions & Answers (MCQs) focuses on “Instruction Set of 8086/8088 – 3”.
+
+1. The mnemonic that is placed before the arithmetic operation is performed is
+a) AAA
+b) AAS
+c) AAM
+d) AAD
+View Answer
+
+Answer: d
+Explanation: The AAD instruction converts two unpacked BCD digits in AH and AL to the equivalent binary number in AL.
+2. The Carry flag is undefined after performing the operation
+a) AAA
+b) ADC
+c) AAM
+d) AAD
+View Answer
+
+Answer: d
+Explanation: Since the operation AAD is performed before division operation is performed, the carry flag, auxiliary flag and overflow flag are undefined.
+3. The instruction that performs logical AND operation and the result of the operation is not available is
+a) AAA
+b) AND
+c) TEST
+d) XOR
+View Answer
+
+Answer: c
+Explanation: In the TEST instruction, the logical AND operation is performed and the result is not stored but flags are affected.
+4. In the RCL instruction, the contents of the destination operand undergoes function as
+a) carry flag is pushed into LSB & MSB is pushed into carry flag
+b) carry flag is pushed into MSB & LSB is pushed into carry flag
+c) auxiliary flag is pushed into LSB & MSB is pushed into carry flag
+d) parity flag is pushed into MSB & LSB is pushed into carry flag
+View Answer
+
+Answer: a
+Explanation: In RCL(Rotate right through carry), for each operation, the carry flag is pushed into LSB and the MSB of the operand is pushed into carry flag.
+5. The instruction that is used as prefix to an instruction to execute it repeatedly until the CX register becomes zero is
+a) SCAS
+b) REP
+c) CMPS
+d) STOS
+View Answer
+
+Answer: b
+Explanation: The instruction to which the REP is prefix, is executed repeatedly until CX register becomes zero. When CX becomes zero, the execution proceeds to the next instruction in sequence.
+6. Match the following
+
+a) MOvSB/SW       1) loads AL/AX register by content of a string
+b) CMPS           2) moves a string of bytes stored in source to destination
+c) SCAS           3) compares two strings of bytes or words whose length is stored in CX register
+d) LODS           4) scans a string of bytes or words
+a) a-3,b-4,c-2,d-1
+b) a-2,b-1,c-4,d-3
+c) a-2,b-3,c-1,d-4
+d) a-2,b-3,c-4,d-1
+View Answer
+
+Answer: d
+Explanation: by using the string instructions, the operations on strings can be performed.
+7. The instructions that are used to call a subroutine from a main program and return to the main program after execution of called function are
+a) CALL,JMP
+b) JMP,IRET
+c) CALL,RET
+d) JMP,RET
+View Answer
+
+Answer: c
+Explanation: At each CALL instruction, the IP and CS of the next instruction is pushed onto stack, before the control is transferred to the procedure.At the end of procedure the RET instruction must be executed to retrieve the stored contents of IP & CS registers from stack.
+8. The instruction that unconditionally transfers the control of execution to the specified address is
+a) CALL
+b) JMP
+c) RET
+d) IRET
+View Answer
+
+Answer: b
+Explanation: In this the control transfers to the address specified in the instruction and flags are not affected by this instruction.
+9. Which instruction cannot force the 8086 processor out of ‘halt’ state?
+a) Interrupt request
+b) Reset
+c) both interrupt request and reset
+d) Hold
+View Answer
+
+Answer: d
+Explanation: Only an interrupt request or Reset will force the 8086 processor to come out of the ‘halt’ state.
+10. NOP instruction introduces
+a) Address
+b) Delay
+c) Memory location
+d) None
+View Answer
+
+Answer: b

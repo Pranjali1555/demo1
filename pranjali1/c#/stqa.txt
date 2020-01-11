@@ -1,0 +1,108 @@
+1)   Requirement Engineering is not concern with ____________. 
+- Published on 18 Aug 15
+
+a. Requirement Design
+b. Requirement Elicitation
+c. Requirement Analysis
+d. Requirement Documentation
+Answer  Explanation 
+ANSWER: Requirement Design
+Explanation: 
+No explanation is available for this question!
+2)   When an expected result is not specified in test case template then ___________. 
+- Published on 18 Aug 15
+
+a. We cannot run the test.
+b. It may be difficult to repeat the test.
+c. It may be difficult to determine if the test has passed or failed.
+d. We cannot automate the user inputs.
+Answer  Explanation 
+ANSWER: It may be difficult to determine if the test has passed or failed.
+Explanation: 
+No explanation is available for this question!
+3)   A test technique that involves testing with various ranges of valid and invalid inputs of a particular module or component functionality extensively is ___________. 
+- Published on 18 Aug 15
+
+a. Gorilla Testing
+b. Monkey Testing
+c. Agile Testing
+d. Baseline Testing
+Answer  Explanation 
+ANSWER: Gorilla Testing
+Explanation: 
+No explanation is available for this question!
+4)   End result of Software Requirement Analysis is ________. 
+- Published on 18 Aug 15
+
+a. Functional and Behavioral
+b. Architectural and Structural
+c. Usability and Reliability
+d. Algorithmic and Data Structure
+Answer  Explanation 
+ANSWER: Functional and Behavioral
+Explanation: 
+No explanation is available for this question!
+5)   Bug status is set to postpone due to ________. 
+- Published on 18 Aug 15
+
+a. Priority of that bug may low.
+b. Lack of time for the release.
+c. The bug may not be the major effect in the software.
+d. Data may be unavailable.
+Answer  Explanation 
+ANSWER: Data may be unavailable.
+Explanation: 
+No explanation is available for this question!
+6)   Which Testing is performed first? 
+- Published on 18 Aug 15
+
+a. Black box testing
+b. White box testing
+c. Dynamic testing
+d. Static testing
+Answer  Explanation 
+ANSWER: Static testing
+Explanation: 
+No explanation is available for this question!
+7)   Verification and Validation uses __________. 
+- Published on 18 Aug 15
+
+a. Internal and External resources respectively.
+b. Internal resources only.
+c. External resources only.
+d. External and Internal resources respectively.
+Answer  Explanation 
+ANSWER: Internal and External resources respectively.
+Explanation: 
+No explanation is available for this question!
+8)   Testing beyond normal operational capacity is __________. 
+- Published on 18 Aug 15
+
+a. Load testing
+b. Performance testing
+c. Stress testing
+d. All of these.
+Answer  Explanation 
+ANSWER: Stress testing
+Explanation: 
+No explanation is available for this question!
+9)   The expected results of the software is _________________. 
+- Published on 18 Aug 15
+
+a. Only important in system testing
+b. Only used in component testing
+c. Most useful when specified in advance
+d. Derived from the code.
+Answer  Explanation 
+ANSWER: Only important in system testing
+Explanation: 
+No explanation is available for this question!
+10)   Which is not true? 
+- Published on 18 Aug 15
+
+a. Condition coverage is also known as Predicate Coverage
+b. 100% condition coverage does not guarantee 100% decision coverage.
+c. Error guessing has rules for testing.
+d. Predicate Coverage uses Boolean values.
+Answer  Explanation 
+ANSWER: Error guessing has rules for testing.

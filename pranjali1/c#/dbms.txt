@@ -1,0 +1,160 @@
+1 The data model which describes how the data is actually stored is :
+A internal model
+B external model
+C logical model
+D none of these
+ View Answer   Comment
+
+Answer: Option [A]
+2 Data about data is normally termed as :
+A directory
+B data bank
+C meta data
+D none of the above
+ View Answer   Comment
+
+Answer: Option [C]
+3 The scheme for hierarchical database is :
+A a tree
+B a graph
+C a B-tree
+D none of the above
+ View Answer   Comment
+
+Answer: Option [A]
+4 Which one is an example for network database ?
+A Unify
+B Ingress
+C IDMS
+D None of the above
+ View Answer   Comment
+
+Answer: Option [C]
+5 One of the following is a valid record-based data model :
+A Object-oriented model
+B Relational model
+C Entity-relationship model
+D None of the above
+ View Answer   Comment
+
+Answer: Option [B]
+6 In an object-oriented model, one object can access data of another object by passing :
+A Instance variable
+B Message
+C Variable
+ None of these
+ View Answer   Comment
+
+Answer: Option [B]
+7 SET concept is used in :
+A Network model
+B Hierarchical model
+C Relational model
+D None of the above
+ View Answer   Comment
+
+Answer: Option [A]
+8 A view of database that appears to an application program is known as :
+A schema
+B subschema
+C virtual table
+D none of the above
+ View Answer   Comment
+
+Answer: Option [B]
+9 Choose the DBMS, which supports full-fledged client server application development ?
+A dBASEIV
+B Oracle 7.1
+C FoxPro 2.1
+D Ingress
+ View Answer   Comment
+
+Answer: Option [B]
+10 A top-to-bottom relationship among the items in a database is established by a :
+A Hierarchical schema
+B Network schema
+C Relational schema
+D All of the above
+ View Answer   Comment
+
+Answer: Option [A]
+The level of data abstraction which describes how the data is actually stored is :
+A conceptual level
+B physical level
+C file level
+D none of these
+ View Answer   Comment
+
+Answer: Option [B]
+12 Collection of information stored in a database at a particular moment is :
+A view
+B schema
+C instance
+D none of the above
+ View Answer   Comment
+
+Answer: Option [C]
+13 The syntax of a user query is verified by :
+A query optimizer
+B DBA
+C parser
+D none of the above
+ View Answer   Comment
+
+Answer: Option [C]
+14 A data model is :
+A Used to describe structure of a database
+B Set of basic operations on the database
+C Both [A] and [B]
+D None of the above
+ View Answer   Comment
+
+Answer: Option [C]
+15 In a hierarchical database, a hashing function is usde to locate the :
+A Root
+B Collisions
+C Primary key
+D Duplicate records
+ View Answer   Comment
+
+Answer: Option [A]
+16 DBA stands for :
+A Data Bank Access
+B Database Access
+C Data Bank Administration
+D Database Administrator
+ View Answer   Comment
+
+Answer: Option [D]
+17 Which of following are the properties of entities ?
+A Groups
+B Table
+C Attributes
+D Switchboards
+ View Answer   Comment
+
+Answer: Option [C]
+18 Between the users and the database itself, a DBMS will act as :
+A barrier
+ interface
+C referee
+D obstacle
+ View Answer   Comment
+
+Answer: Option [B]
+19 Which of these is not a database object ?
+A index
+B sequence
+C cursor
+D trigger
+ View Answer   Comment
+
+Answer: Option [C]
+20 Which one of the following is not an object-based logical model ?
+A The binary model
+B The entity-relational model
+C The infological model
+D None of these
+ View Answer   Comment
+
+Answer: Option [C]

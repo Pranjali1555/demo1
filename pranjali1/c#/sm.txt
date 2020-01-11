@@ -1,0 +1,80 @@
+MCQ. Numerical methods and graphical methods are specialized procedures used in
+
+social statistics.
+business statistics.
+descriptive statistics.
+education statistics.
+Answer C
+
+MCQ. One of category of statistical method is
+
+managerial statistics.
+decision science.
+inferential statistics.
+industry statistics.
+Answer C
+
+MCQ. Characterization, collection and presentation of particular set of data in organized way is classified as
+
+descriptive statistics.
+education statistics.
+social statistics.
+business statistics.
+Answer A
+
+MCQ. Subset of selected population is called
+
+descriptive portion.
+elementary portion.
+inferential portion.
+sample.
+Answer D
+
+MCQ. Statistical method which facilitate decision making process for population sample results is classified as
+
+decisional procedure.
+inferential statistics.
+elementary statistics.
+social methodology.
+Answer B
+
+
+MCQ. Analysis of labor turnover rates, performance appraisal, training programs and planning of incentives are examples of role of
+
+statistics in personnel management.
+statistics in finance.
+statistics in marketing.
+statistics in production.
+Answer A
+
+MCQ. Branch of statistics which considers ratio scale and interval scale is considered as
+
+parametric statistics.
+non-parametric statistics.
+distribution statistics.
+sampling statistics.
+Answer A
+
+MCQ. Process of converting inputs into outputs in presence of repeatedly same conditions is classified as
+
+sampler.
+parameters.
+process.
+mixer.
+Answer C
+
+MCQ. Branch of statistics in which data is collected according to ordinal scale or nominal scale is classified as
+
+distribution statistics.
+sampling statistics.
+parametric statistics.
+non-parametric statistics.
+Answer D
+
+MCQ. Time frame to complete a transaction in bank is classified as
+
+parameters.
+process.
+mixer.
+sampler.
+Answer B

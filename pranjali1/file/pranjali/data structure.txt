@@ -1,0 +1,80 @@
+1. Which one of the following permutations can be obtained the output using stack assuming that the input is the sequence 1,2,3,4,5 in that order ?
+[A] 3,4,5,1,2
+[B] 3,4,5,2,1
+[C] 1,5,2,3,4
+[D] 5,4,3,1,2
+Answer: B. 3,4,5,2,1
+
+ Answer   5 Discussions  1  0
+2. The initial configuration of the queue is a,b,c,d (a is the front end). To get the configuration d,c,b,a one needs a minimum of ?
+[A] 2 deletions and 3 additions
+[B] 3 additions and 2 deletions
+[C] 3 deletions and 3 additions
+[D] 3 deletions and 4 additions
+Answer: C. 3 deletions and 3 additions
+
+ Answer   0 Discussions  1  0
+3. Linked list are not suitable data structure of which one of the following problems ?
+[A] Insertion sort
+[B] Binary search
+[C] Radix sort
+[D] Polynomial manipulation
+Answer: B. Binary search
+
+ Answer   0 Discussions  1  0
+4. The number of possible ordered trees with three nodes A,B,C is?
+[A] 16
+[B] 12
+[C] 6
+[D] 10
+Answer: B. 12
+
+ Answer   1 Discussions  1  0
+5. Which of the following algorithm design technique is used in the quick sort algorithm?
+[A] Dynamic programming
+[B] Backtracking
+[C] Divide and conquer
+[D] Greedy method
+Answer: C. Divide and conquer
+
+ Answer   0 Discussions  1  0
+6. The number of swapping needed to sort numbers 8,22,7,9,31,19,5,13 in ascending order using bubble sort is ?
+[A] 11
+[B] 12
+[C] 13
+[D] 14
+Answer: D. 14
+
+ Answer   0 Discussions  1  0
+7. Which of the following statement is true ?
+[A] Optimal binary search tree construction can be performed efficiently using dynamic programming.
+[B] Breath first search cannot be used to find converted components of a graph.
+[C] Given the prefix and post fix walks over a binary tree.The binary tree cannot be uniquely constructe
+[D] Depth first search can be used to find connected components of a graph.
+Answer: A. Optimal binary search tree construction can be performed efficiently using dynamic programming.
+
+ Answer   0 Discussions  2  0
+8. Given two sorted lists of size m and n respectively.The number of comparisons needed in the worst case by the merge sort algorithm will be?
+[A] mn
+[B] max(m,n)
+[C] min(m,n)
+[D] m+n-1
+Answer: D. m+n-1
+
+ Answer   0 Discussions  1  0
+9. Merge sort uses ?
+[A] Divide and conquer strategy
+[B] Backtracking approach
+[C] Heuristic search
+[D] Greedy approach
+Answer: A. Divide and conquer strategy
+
+ Answer   0 Discussions  1  0
+10. The following sequence of operation is performed on stack : push(1),push(2),pop,push(1),push(2),pop,pop,pop,push(2),pop. The sequence of popped out values are ?
+[A] 2,2,1,1,2
+[B] 2,2,1,2,2
+[C] 2,1,2,2,1
+[D] 2,1,2,2,2
+Answer: A. 2,2,1,1,2
+
+ Answer   0 Discussions 

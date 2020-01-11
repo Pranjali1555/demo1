@@ -1,0 +1,63 @@
+1. The number of hardware interrupts that the processor 8085 consists of is
+a) 1
+b) 3
+c) 5
+d) 7
+View Answer
+
+2. The register that stores all the interrupt requests in it in order to serve them one by one on priority basis is
+a) Interrupt Request Register
+b) In-Service Register
+c) Priority resolver
+d) Interrupt Mask Register
+View Answer
+
+3. The register that stores the bits required to mask the interrupt inputs is
+a) In-service register
+b) Priority resolver
+c) Interrupt Mask register
+d) none
+View Answer
+
+4. The interrupt control logic
+a) manages interrupts
+b) manages interrupt acknowledge signals
+c) accepts interrupt acknowledge signal
+d) all of the mentioned
+View Answer
+
+5. In cascaded mode, the number of vectored interrupts provided by 8259A is
+a) 4
+b) 8
+c) 16
+d) 64
+View Answer
+
+6. When the PS(active low)/EN(active low) pin of 8259A used in buffered mode, then it can be used as a
+a) input to designate chip is master or slave
+b) buffer enable
+c) buffer disable
+d) none
+View Answer
+
+7. Once the ICW1 is loaded, then the initialisation procedure involves
+a) edge sense circuit is reset
+b) IMR is cleared
+c) slave mode address is set to 7
+d) all of the mentioned
+View Answer
+
+8. When non-specific EOI command is issued to 8259A it will automatically
+a) set the ISR
+b) reset the ISR
+c) set the INTR
+d) reset the INTR
+View Answer
+
+9. In the application where all the interrupting devices are of equal priority, the mode used is
+a) automatic rotation
+b) automatic EOI mode
+c) specific rotation
+d) EOI
+View Answer
+

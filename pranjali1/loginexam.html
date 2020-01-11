@@ -1,0 +1,138 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link href="style1.css" rel="stylesheet" type="text/css" media="all" />
+<title>login exam</title><center><h1><font color="#FFFF66" size="+6" style="border-bottom-style: dotted">SMART_Test</h1></font>
+<script type='text/javascript'>
+
+function formValidator(){
+	// takin all fiel data fields
+	var firstname = document.getElementById('firstname');
+	
+	// Check each input in the order that it appears in the form!
+	if(isAlphabet(firstname,"firstname","Please enter only letters "))
+	{
+	  
+               	
+		return true;
+						
+					
+				
+			
+		
+	}
+	
+	
+	return false;
+	
+}
+
+function notEmpty(elem, helperMsg){
+	if(elem.value.length == 0){
+		alert(helperMsg);
+		elem.focus(); // set the focus to this input
+		return false;
+	}
+	return true;
+}
+function isAlphabet(elem,id_name,helperMsg){
+	var alphaExp = /^[a-zA-Z]+$/;
+	if(elem.value.match(alphaExp)){
+		return true;
+	}else{
+		alert(helperMsg);
+		//var id_name="span_"+elem.name;
+		//alert(id_name);
+		document.getElementById('span_'+id_name).innerHTML=helperMsg;
+		elem.focus();
+		return false;
+	}
+}
+
+</script>
+
+<style type="text/css">
+h1{
+    font-size:45px;
+	color:#660066;
+	font:face;
+	}
+	td{
+	 color:#660066;
+	 }
+h2{
+     font-size:25px;
+	 color:#330066;
+	 azimuth:center-left;
+	 }
+	 a{
+font-size:20px;
+color:#330033;;
+}
+ body{
+background:url(file/IMG_294060.jpg);
+
+}
+.button{
+background-color:#CC0066;
+border:none;
+color:#CCFF00;
+padding: 10px 25px;
+text-align:center;
+text-decoration:none;
+display:inline-block;
+font-size:16px;
+border-radius:12px;
+}
+
+</style>
+<script type="text/javascript">
+function log()
+{
+alert("your account is created");
+ 
+}
+</script>
+
+
+</head>
+
+<body background="file/Desktop-Blue-HD-Wallpapers.jpg">
+<table border="0" cellspacing="0" width="100%" bgcolor="#9933CC">
+<TR><TD><font size="+1">
+<a href="index.html" ><b>Home</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></TD>
+
+<TD><font size="+1">
+<a href="registration.html" ><b>Registration</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></TD>
+
+<TD><font size="+1"><a href="loginexam.html" ><b>login exam</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></TD>
+
+
+
+
+<TD><font size="+1"><a href="contactus.html"><b>Contact Us</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></TD>
+
+<TD><font size="+1"><a href="feedback.html" ><b>Feedback</b></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></TD>
+</TR></table><br /><BR /></font>
+<form action="loginexam.php" method="post" onsubmit='return formValidator()'>
+<h1 align="center"><u>Login Exam</u></h1>
+<table align="center">
+<tr><td><img src="file/7.jpg" /></td> <td>
+
+<table align="center"></td><td>
+<tr align="right"><td><h2>Name:</h2></td><td>
+<input type="text" name="Nm" id='firstname'/><br /></td></tr><tr align="right"45><td>&nbsp;&nbsp;
+<h2>Password:</h2></td><td>
+<input type="password" name="Pw" required/><br /></td></tr>&nbsp;&nbsp;&nbsp;<tr><td><br /><br />
+<input type="submit" value="submit" name="submit" class="button" />&nbsp;&nbsp;&nbsp;
+
+<input type="reset" name="clear" class="button"/><br /></td></tr></table></td></tr></table></center>
+</form><br />
+<br />
+<br />
+
+
+</body>
+
+</html>

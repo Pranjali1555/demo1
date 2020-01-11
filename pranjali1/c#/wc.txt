@@ -1,0 +1,118 @@
+1. 	
+What is the frequency range of the IEEE 802.11a standard?
+A.	2.4Gbps
+B.	5Gbps
+C.	2.4GHz
+D.	5GHz
+Answer: Option D
+
+Explanation:
+
+The IEEE 802.11a standard runs in the 5GHz RF range.
+View Answer Discuss in Forum Workspace Report
+2. 	
+What is the maximum distance running the lowest data rate for 802.11b?
+A.	About 100 feet
+B.	About 175 feet
+C.	About 300 feet
+D.	About 350 feet
+Answer: Option D
+
+Explanation:
+
+The IEEE 802.11b standard provides the lowest data rate at 1Mbps, but it also has the longest distance, which is about 350 feet.
+View Answer Discuss in Forum Workspace Report
+3. 	
+What is the maximum distance with maximum data rate for 802.11a?
+A.	About 65-75 feet
+B.	About 90-100 feet
+C.	About 150 feet
+D.	Over 200 feet
+Answer: Option A
+
+Explanation:
+
+The IEEE 802.11a standard provides a maximum data rate of up to 54Mbps, but you need to be close to the access point, somewhere around 65 to 75 feet.
+View Answer Discuss in Forum Workspace Report
+4. 	
+What is the frequency range of the IEEE 802.11b standard?
+A.	2.4Gbps
+B.	5Gbps
+C.	2.4GHz
+D.	5GHz
+Answer: Option C
+
+Explanation:
+
+The IEEE 802.11b and IEEE 802.11g standards both run in the 2.4GHz RF range.
+View Answer Discuss in Forum Workspace Report
+5. 	
+You have a Cisco mesh network. What protocol allows multiple APs to connect with many redundant connections between nodes?
+A.	LWAPP
+B.	AWPP
+C.	STP
+D.	IEEE
+Answer: Option B
+
+Explanation:
+
+Each AP in a mesh network runs the Adaptive Wireless Path Protocol (AWPP). This protocol allows RAPs to communicate with each other to determine the best path back to the wired network via the RAP.
+6. 	
+What is the maximum data rate for the 802.11g standard?
+A.	6Mbps
+B.	11Mbps
+C.	22Mbps
+D.	54Mbps
+Answer: Option D
+
+Explanation:
+
+The IEEE 802.11g standard provides a maximum data rate of up to 54Mbps.
+View Answer Discuss in Forum Workspace Report
+7. 	
+What is the maximum data rate for the 802.11a standard?
+A.	6Mbps
+B.	11Mbps
+C.	22Mbps
+D.	54Mbps
+Answer: Option D
+
+Explanation:
+
+The IEEE 802.11a standard provides a maximum data rate of up to 54Mbps.
+View Answer Discuss in Forum Workspace Report
+8. 	
+How many non-overlapping channels are available with 802.11b?
+A.	3
+B.	12
+C.	23
+D.	40
+Answer: Option A
+
+Explanation:
+
+The IEEE 802.11b standard provides 3 non-overlapping channels.
+View Answer Discuss in Forum Workspace Report
+9. 	
+How many non-overlapping channels are available with 802.11a?
+A.	3
+B.	12
+C.	23
+D.	40
+Answer: Option B
+
+Explanation:
+
+The IEEE 802.11a standard provides up to 12 non-overlapping channels.
+View Answer Discuss in Forum Workspace Report
+10. 	
+In Cisco's Unified Wireless Solution, what is the split-MAC architecture?
+A.	The split-MAC architecture uses MAC addresses to create a forward/filter table and break up collision domains.
+B.	The split-MAC architecture allows the splitting of 802.11 protocol packets between the AP and the controller to allow processing by both devices.
+C.	The split-MAC architecture uses MAC addresses on the wireless network and IP addresses on the wired network.
+D.	The split-MAC architecture uses MAC addresses to create a forward/filter table and break up broadcast domains.
+Answer: Option B
+
+Explanation:
+
+The split-MAC architecture allows the splitting of 802.11 protocol packets between the Cisco LWAPP-based AP, which handles real-time portions of the protocol, and the WLAN controller, which handles those items that are not time sensitive.
